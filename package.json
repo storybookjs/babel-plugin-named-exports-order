@@ -1,5 +1,5 @@
 {
-  "name": "babel-plugin-named-exports",
+  "name": "babel-plugin-named-exports-order",
   "version": "0.0.1",
   "description": "Babel plugin for preserving exports order across transforms",
   "keywords": [
