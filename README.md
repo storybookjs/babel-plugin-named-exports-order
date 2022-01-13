@@ -29,7 +29,7 @@ Install with:
 yarn add babel-plugin-named-exports-order -D
 ```
 
-Then add to your `plugins` in `.babelrc.js`:
+Then add it to `plugins` in `.babelrc.js`:
 
 ```js
 module.exports = {

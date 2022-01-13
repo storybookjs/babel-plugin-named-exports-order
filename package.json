@@ -1,6 +1,10 @@
 {
   "name": "babel-plugin-named-exports",
   "version": "0.0.1",
+  "description": "Babel plugin for preserving exports order across transforms",
+  "keywords": [
+    "babel-plugin"
+  ],
   "main": "index.js",
   "author": "Michael Shilman",
   "license": "MIT",
@@ -11,5 +15,8 @@
   "scripts": {
     "test": "jest",
     "release": "auto shipit"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
